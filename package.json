@@ -1,28 +1,32 @@
 {
-	"name": "@vsirrr/normalize.css",
-	"version": "0.1.0",
-	"description": "A modern alternative to CSS resets",
-	"main": "normalize.css",
-	"files": [
-		"normalize.css",
-		"README.md"
-	],
-	"scripts": {},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/VSirrr/normalize.css.git"
-	},
-	"keywords": [
-		"css",
-		"normalize.css"
-	],
-	"author": "VSirrr",
-	"license": "Apache License",
-	"bugs": {
-		"url": "https://github.com/VSirrr/normalize.css/issues"
-	},
-	"homepage": "https://github.com/VSirrr/normalize.css#readme",
-	"publishConfig": {
-		"access": "public"
-	}
+  "name": "@vsirrr/normalize.css",
+  "version": "0.1.0",
+  "description": "A modern alternative to CSS resets",
+  "main": "normalize.css",
+  "files": [
+    "normalize.css",
+    "README.md"
+  ],
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VSirrr/normalize.css.git"
+  },
+  "keywords": [
+    "css",
+    "reset",
+    "reset.css",
+    "normalize",
+    "CSS resets",
+    "normalize.css"
+  ],
+  "author": "VSirrr",
+  "license": "Apache License",
+  "bugs": {
+    "url": "https://github.com/VSirrr/normalize.css/issues"
+  },
+  "homepage": "https://github.com/VSirrr/normalize.css#readme",
+  "publishConfig": {
+    "access": "public"
+  }
 }
